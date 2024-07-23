@@ -10,9 +10,15 @@ openai
 tiktoken
 
 # uncomment to use instructor embeddings
-# InstructorEmbedding==1.0.1
+InstructorEmbedding==1.0.1
 # sentence-transformers==2.2.2
 pytube==15.0.0
 streamlit==1.33.0
 youtube-transcript-api==0.6.2
 langchain-community
+# uncomment to use huggingface llms
+huggingface-hub==0.14.1
+
+# uncomment to use instructor embeddings
+# InstructorEmbedding==1.0.1
+# sentence-transformers==2.2.2
