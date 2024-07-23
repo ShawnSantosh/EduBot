@@ -7,6 +7,7 @@ chromadb
 faiss-cpu
 langchain_google_genai
 openai 
+tiktoken
 
 # uncomment to use instructor embeddings
 # InstructorEmbedding==1.0.1
